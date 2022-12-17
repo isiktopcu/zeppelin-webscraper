@@ -4,3 +4,4 @@ Contains:
 1. Date
 2. Venue 
 3. URL's
+4. Csv file
