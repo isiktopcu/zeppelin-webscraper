@@ -1,6 +1,6 @@
 # Webscraping Led Zeppelin's Concert History
 I had time off today to scrape Zeppelin's concert history. 
 Contains:
-  Date
-  Venue 
-  URL
+1. Date
+2. Venue 
+3. URL's
